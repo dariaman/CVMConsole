@@ -1,0 +1,12 @@
+D:\CAFProject\CVMConsole\CVMConsole\bin\Release\netcoreapp2.0\CVMConsole.dll.config
+D:\CAFProject\CVMConsole\CVMConsole\bin\Release\netcoreapp2.0\CVMConsole.deps.json
+D:\CAFProject\CVMConsole\CVMConsole\bin\Release\netcoreapp2.0\CVMConsole.runtimeconfig.json
+D:\CAFProject\CVMConsole\CVMConsole\bin\Release\netcoreapp2.0\CVMConsole.runtimeconfig.dev.json
+D:\CAFProject\CVMConsole\CVMConsole\bin\Release\netcoreapp2.0\CVMConsole.dll
+D:\CAFProject\CVMConsole\CVMConsole\bin\Release\netcoreapp2.0\CVMConsole.pdb
+D:\CAFProject\CVMConsole\CVMConsole\obj\Release\netcoreapp2.0\CVMConsole.csprojResolveAssemblyReference.cache
+D:\CAFProject\CVMConsole\CVMConsole\obj\Release\netcoreapp2.0\CVMConsole.csproj.CoreCompileInputs.cache
+D:\CAFProject\CVMConsole\CVMConsole\obj\Release\netcoreapp2.0\CVMConsole.AssemblyInfoInputs.cache
+D:\CAFProject\CVMConsole\CVMConsole\obj\Release\netcoreapp2.0\CVMConsole.AssemblyInfo.cs
+D:\CAFProject\CVMConsole\CVMConsole\obj\Release\netcoreapp2.0\CVMConsole.dll
+D:\CAFProject\CVMConsole\CVMConsole\obj\Release\netcoreapp2.0\CVMConsole.pdb
